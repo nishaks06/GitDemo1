@@ -8,4 +8,8 @@ public class JavaSample {
 
 	}
 
+
+public void TestCase1() {
+	//test cases will be written here
+}
 }
